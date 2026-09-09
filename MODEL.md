@@ -20,4 +20,4 @@
 - User -> many subjects
 - Subject (belongs to one User) -> many topics
 - Topic (belongs to one Subject)-> many notes
-- StudySession(belongs to one User) -> many topics
+- StudySession(belongs to one User) -> ???
