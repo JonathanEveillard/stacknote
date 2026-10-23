@@ -1,3 +1,0 @@
-# Stacknote
--- 
-In Progress...
